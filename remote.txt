@@ -1,3 +1,4 @@
 rrrrr
 ttttt
 modify by local
+modify by clone remote;
